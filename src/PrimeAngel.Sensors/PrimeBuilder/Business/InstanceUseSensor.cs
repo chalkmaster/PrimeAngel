@@ -28,7 +28,7 @@ namespace PrimeAngel.Sensors.PrimeBuilder.Business
                 using (var cn = new SqlConnection())
                 {
                     cn.ConnectionString =
-                        @"Server=200.170.174.154\MSSQL2008R2;initial catalog=OSMobile;uid=sa;pwd=qwe123!@#;";
+                        @"Server=dasdasdasdasdsadasdas";
                     cn.Open();
 
                     using (var cmd = new SqlCommand())
