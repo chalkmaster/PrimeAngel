@@ -1,0 +1,9 @@
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\PrimeAngel.Perceptions.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\PrimeAngel.Perceptions.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\obj\Debug\PrimeAngel.Perceptions.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\obj\Debug\PrimeAngel.Perceptions.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\obj\Debug\PrimeAngel.Perceptions.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\PrimeAngel.Infrastructure.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\PrimeAngel.Infrastructure.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Perceptions\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,11 @@
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\obj\Debug\PrimeAngel.Sensors.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Sensors.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Sensors.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Perceptions.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Perceptions.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\obj\Debug\PrimeAngel.Sensors.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\obj\Debug\PrimeAngel.Sensors.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Infrastructure.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\PrimeAngel.Infrastructure.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.Sensors\bin\Debug\Newtonsoft.Json.xml

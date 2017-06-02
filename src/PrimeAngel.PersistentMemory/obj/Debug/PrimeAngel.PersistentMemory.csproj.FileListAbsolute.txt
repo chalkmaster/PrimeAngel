@@ -1,0 +1,5 @@
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.PersistentMemory\bin\Debug\PrimeAngel.PersistentMemory.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.PersistentMemory\bin\Debug\PrimeAngel.PersistentMemory.pdb
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.PersistentMemory\obj\Debug\PrimeAngel.PersistentMemory.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.PersistentMemory\obj\Debug\PrimeAngel.PersistentMemory.dll
+E:\Dropbox\Dropbox\Projeto\PrimeAngel\PrimeAngel\PrimeAngel.PersistentMemory\obj\Debug\PrimeAngel.PersistentMemory.pdb

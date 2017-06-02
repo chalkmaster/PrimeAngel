@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF397B6F-49E4-48DF-8C93-3A71C45F23E5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PrimeAngel.Actuators</RootNamespace>
+    <AssemblyName>PrimeAngel.Actuators</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actuator.cs" />
+    <Compile Include="IAction.cs" />
+    <Compile Include="IActionResult.cs" />
+    <Compile Include="IActuator.cs" />
+    <Compile Include="ConsoleAction.cs" />
+    <Compile Include="NothingToDoAction.cs" />
+    <Compile Include="Notify\EmailNotificationAction.cs" />
+    <Compile Include="PrimeBuilder\ActiveInstanceWithoutUseActuator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PrimeAngel.Infrastructure\PrimeAngel.Infrastructure.csproj">
+      <Project>{628f8120-0ae0-417d-b526-8073987dbb56}</Project>
+      <Name>PrimeAngel.Infrastructure</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PrimeAngel.Perceptions\PrimeAngel.Perceptions.csproj">
+      <Project>{5F24A0FA-8B07-4806-A358-EDF2338D2B7A}</Project>
+      <Name>PrimeAngel.Perceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PrimeAngel.PersistentMemory\PrimeAngel.PersistentMemory.csproj">
+      <Project>{8CE0878B-121F-4862-80D0-7C3C15C0FD71}</Project>
+      <Name>PrimeAngel.PersistentMemory</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
